@@ -8,11 +8,7 @@
 
 ### Contact information
 
-**Phone:** +7 (904) 107-08-70
-**Email:** gnarkill33@gmail.com
-**Telegram:** @Gnarkill
-**Discord:** Gnarkill (@Gnarkill33)
-[**LinkedIn**](https://www.linkedin.com/in/gnarkill33)
+**Phone:** +7 (904) 107-08-70 **Email:** gnarkill33@gmail.com **Telegram:** @Gnarkill **Discord:** Gnarkill (@Gnarkill33) [**LinkedIn**](https://www.linkedin.com/in/gnarkill33)
 
 ---
 
