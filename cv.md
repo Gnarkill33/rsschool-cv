@@ -9,18 +9,18 @@
 ### Contact information
 
 **Phone:** +7 (904) 107-08-70
-
 **Email:** gnarkill33@gmail.com
-
 **Telegram:** @Gnarkill
-
 **Discord:** Gnarkill (@Gnarkill33)
-
 [**LinkedIn**](https://www.linkedin.com/in/gnarkill33)
 
 ---
 
 ### About myself
+
+To become a junior frontend developer, I am committed to expanding my knowledge of HTML, CSS, and JavaScript, as well as mastering popular frameworks like React or Angular. I plan to engage in hands-on projects, collaborate with experienced developers, and seek out learning opportunities through online courses and tutorials.
+
+By building a strong foundation in frontend development principles and practices, I aim to develop the skills necessary to create responsive and dynamic web interfaces that meet modern design standards.
 
 ---
 
