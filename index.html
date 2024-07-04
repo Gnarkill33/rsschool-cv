@@ -28,13 +28,13 @@
   <main class="main">
     <div class="container main-container">
       <section class="section section-profile" id="profile">
-        <div class="section-profile-info">
+        <div id="summary">
           <h1 class="section-profile-title">Hi, I'm Kate,<br>Junior Front-end Developer</h1>
           <p class="section-profile-text">Aspiring front-end developer with strong collaboration<br>and
             communication
             abilities. Committed to staying current<br>with web development trends for cutting-edge solutions.</p>
-          <div class="section-profile-contacts" id="contacts">
-            <h2 class="section-title">01 / Контакты</h2>
+          <div id="contacts">
+            <h2 class="section-title">01 / Contacts</h2>
             <ul class="section-list">
               <li class="section-item">Email:
                 <a href="mailto:gnarkill33@gmail.com" title="email">gnarkill33@gmail.com</a>
@@ -54,30 +54,64 @@
         </div>
         <img class="section-profile-pic" src="./assets/img/profile.jpg" alt="profile">
       </section>
+      </section>
+      <section class="section section-profile" id="skills">
+        <div>
+          <h2 class="section-title">02 / Skills</h2>
+          <ul class="section-list">
+            <li class="section-item">HTML + CSS</li>
+            <li class="section-item">Sass</li>
+            <li class="section-item">JavaScript (basics)</li>
+            <li class="section-item">React</li>
+          </ul>
+        </div>
+        <div id="courses">
+          <h2 class="section-title">03 / Courses</h2>
+          <ul class="section-list">
+            <li class="section-item">ITGIRLS (in progress)</li>
+            <li class="section-item">HTML Academy</li>
+            <li class="section-item">RS School «JavaScript/Frontend. Stage 0» (in progress)</li>
+            <li class="section-item">Private mentoring</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section section-profile" id="abilities">
+        <div id="code">
+          <h2 class="section-title">04 / Code</h2>
+          <pre class="pre">
+            <code>**Kata from CodeWars:**
+
+              There is an array with some numbers. <br>All numbers are equal except for one. <br>Try to find it!
+              
+              function findUniq(array) {
+                const result = array.filter(
+                  (element, index, numbers) =>
+                    numbers.indexOf(element) === numbers.lastIndexOf(element)
+                );
+                return +result;
+              }</code>
+          </pre>
+        </div>
+        <div id="projects">
+          <h2 class="section-title">05 / Projects</h2>
+        </div>
+      </section>
+
+
+
+      <section class="section section-profile" id="training">
+        <div id="education">
+          <h2 class="section-title">06 / Education</h2>
+        </div>
+        <div id="languages">
+          <h2 class="section-title">07 / English</h2>
+        </div>
+      </section>
+
+
     </div>
-    </section>
-    <section class="section" id="summary">
-      <h2 class="section-title">О себе</h2>
-    </section>
-    <section class="section" id="skills">
-      <h2 class="section-title">Skills</h2>
-      <ul></ul>
-    </section>
-    <section class="section" id="code">
-      <h2 class="section-title">Code</h2>
-    </section>
-    <section class="section" id="courses">
-      <h2 class="section-title"></h2>
-    </section>
-    <section class="section" id="projects">
-      <h2 class="section-title">Projects</h2>
-    </section>
-    <section class="section" id="education">
-      <h2 class="section-title">Education</h2>
-    </section>
-    <section class="section" id="languages">
-      <h2 class="section-title">English</h2>
-    </section>
+    </div>
     </div>
   </main>
   <footer class="footer">

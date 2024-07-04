@@ -98,8 +98,11 @@ body {
 
 .section-profile {
   display: flex;
+  justify-content: space-between;
   gap: 5rem;
   margin: 0 auto;
+  border-bottom: 3px solid var(--main-gray);
+  padding: 2rem;
 }
 
 .section-profile-title {
@@ -121,8 +124,9 @@ body {
 }
 
 .section-profile-pic {
-  width: 421px;
+  width: 380px;
   height: 540px;
+  padding-top: 50px;
 }
 
 .section-list {
