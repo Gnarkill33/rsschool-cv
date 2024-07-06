@@ -89,20 +89,6 @@ body {
   color: var(--main-gray);
 }
 
-.summary-item {
-  width: calc(60% - 20px);
-}
-
-.section-title {
-  font-family: var(--second-family);
-  font-weight: 600;
-  font-size: 18px;
-  line-height: 122%;
-  letter-spacing: -0.03em;
-  text-transform: uppercase;
-  color: var(--main-black);
-}
-
 .summary {
   display: flex;
   justify-content: space-between;
@@ -140,6 +126,20 @@ body {
   width: 380px;
   height: 540px;
   padding-top: 50px;
+}
+
+.summary-item {
+  width: calc(60% - 20px);
+}
+
+.section-title {
+  font-family: var(--second-family);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 122%;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--main-black);
 }
 
 .section-list {
